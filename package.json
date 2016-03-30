@@ -1,6 +1,6 @@
 {
   "name": "first-step-benchmark",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "scaffolding tool to benchmark.js",
   "main": "index.js",
   "bin": {

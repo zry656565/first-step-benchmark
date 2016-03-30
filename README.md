@@ -4,19 +4,21 @@ A scaffolding tool to [benchmark.js](https://github.com/bestiejs/benchmark.js)
 
 ## Install
 
-```bash
+```
 npm install -g first-step-benchmark
 ```
 
 ## Usage
 
-```bash
+```
 first-step-benchmark test.js
 ```
 
 And you will get a new file like below:
 
 ```js
+// test.js
+
 var benchmark = require('benchmark');
 
 var suite = new Benchmark.Suite;
