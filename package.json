@@ -1,0 +1,30 @@
+{
+  "name": "first-step-benchmark",
+  "version": "0.1.0",
+  "description": "scaffolding tool to benchmark.js",
+  "main": "index.js",
+  "bin": {
+    "first-step-benchmark": "./first-step-benchmark.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zry656565/first-step-benchmark.git"
+  },
+  "keywords": [
+    "benchmark.js",
+    "scaffolding",
+    "first-step"
+  ],
+  "author": "JerryZou",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zry656565/first-step-benchmark/issues"
+  },
+  "homepage": "https://github.com/zry656565/first-step-benchmark#readme",
+  "dependencies": {
+    "commander": "^2.9.0"
+  }
+}

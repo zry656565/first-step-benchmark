@@ -1,0 +1,9 @@
+# node
+node_modules
+
+# vscode
+.vscode
+jsconfig.json
+
+# tsd
+typings
